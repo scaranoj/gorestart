@@ -21,6 +21,6 @@ func sum(ii ...int) int {
 		n += v
 	}
 	return n
-	//now that you returned n, you need to catch that at your func call (value needs to go somewhere after you return it)
+	//now that you returned n, you need to catch it at your func call in main block (value needs to go somewhere after you return it, which will be x in this case)
 
 }
