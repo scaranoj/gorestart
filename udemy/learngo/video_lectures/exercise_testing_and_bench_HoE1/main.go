@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/scaranoj/gorestart/exercise_testing_and_bench_HoE1/dog"
+	"github.com/scaranoj/gorestart/udemy/learngo/video_lectures/exercise_testing_and_bench_HoE1/dog"
 )
 
 type canine struct {
